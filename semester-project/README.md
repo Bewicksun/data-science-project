@@ -6,6 +6,10 @@ CISC7204 Class B, Team 01 semester project. This showcase uses the team's final 
 
 Did real GDP per person and territorial CO₂ emissions per person move together in China, Japan, and South Korea between 2000 and 2022?
 
+## Jiawei Sun's contribution
+
+I processed the project data and provided the prepared data to teammates who were developing the presentation. My assigned developer-support responsibilities covered data auditing, figure design, reviewing sensitivity outputs, and independently verifying calculations and notebook execution. The research design, analysis notebook, and results documented here were produced by Team 01.
+
 ## Data and methods
 
 The notebook joins [World Bank GDP per capita in constant 2015 US dollars](https://data.worldbank.org/indicator/NY.GDP.PCAP.KD) (CC BY 4.0) with territorial fossil and industrial CO₂ per person from the Global Carbon Project via the [pinned Our World in Data snapshot](https://github.com/owid/co2-data/tree/382ee6c662b0ece26e111f263b44c029afad7787). See the [OWID indicator and source terms](https://ourworldindata.org/grapher/co-emissions-per-capita) for attribution and third-party conditions. The repository includes the original World Bank response with attribution. The download script retrieves the pinned OWID CSV from its provider. The manifest records the retrieval URLs and checksums from the original analysis.
