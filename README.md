@@ -1,8 +1,10 @@
-# Macao Tourism and Gaming Recovery
+# CISC7204 Data Science Projects
 
-This repository also houses the [Assignment 01 annual analysis](assignment-01/) and the [Team 01 Semester Project on GDP and CO₂ in East Asia](semester-project/).
+- [Semester Project · GDP and CO₂ per person in East Asia](semester-project/) — Team 01 notebook, data sources, results, and figures.
+- [Assignment 01 · Macao annual recovery](assignment-01/) — Preliminary annual analysis.
+- [Assignment 02 · Macao monthly recovery](#assignment-02--macao-tourism-and-gaming-recovery) — Analysis and reproduction instructions below.
 
-## Assignment 02 · Monthly recovery
+## Assignment 02 · Macao Tourism and Gaming Recovery
 
 **Research question:** Did Macao visitor arrivals and gross gaming revenue recover at the same pace after the pandemic, relative to 2019?
 
