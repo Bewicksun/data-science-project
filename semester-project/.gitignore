@@ -1,0 +1,5 @@
+/data/raw/snapshot_2026-11-05/*
+!/data/raw/snapshot_2026-11-05/manifest.json
+/data/processed/
+/output/
+!/data/raw/snapshot_2026-11-05/worldbank_gdp_per_capita.json

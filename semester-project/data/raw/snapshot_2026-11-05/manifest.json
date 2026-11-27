@@ -1,0 +1,41 @@
+{
+  "snapshot_label": "2026-11-05",
+  "owid_git_commit": "382ee6c662b0ece26e111f263b44c029afad7787",
+  "files": {
+    "owid-co2-data.csv": {
+      "url": "https://raw.githubusercontent.com/owid/co2-data/382ee6c662b0ece26e111f263b44c029afad7787/owid-co2-data.csv",
+      "resolved_url": "https://raw.githubusercontent.com/owid/co2-data/382ee6c662b0ece26e111f263b44c029afad7787/owid-co2-data.csv",
+      "retrieved_at_utc": "2026-11-05T04:29:26.097457+00:00",
+      "sha256": "7f78e2b218ce4bb8c538bbec04fdc9a7982e8d40bff972e650df603899edd5f6",
+      "bytes": 14377942
+    },
+    "owid-co2-codebook.csv": {
+      "url": "https://raw.githubusercontent.com/owid/co2-data/382ee6c662b0ece26e111f263b44c029afad7787/owid-co2-codebook.csv",
+      "resolved_url": "https://raw.githubusercontent.com/owid/co2-data/382ee6c662b0ece26e111f263b44c029afad7787/owid-co2-codebook.csv",
+      "retrieved_at_utc": "2026-11-05T04:29:26.714185+00:00",
+      "sha256": "33b4f5e00efd58c7b83863f736beba1af4df946b43642b0400c3ec38648e0e8e",
+      "bytes": 24149
+    },
+    "owid_README.md": {
+      "url": "https://raw.githubusercontent.com/owid/co2-data/382ee6c662b0ece26e111f263b44c029afad7787/README.md",
+      "resolved_url": "https://raw.githubusercontent.com/owid/co2-data/382ee6c662b0ece26e111f263b44c029afad7787/README.md",
+      "retrieved_at_utc": "2026-11-05T04:29:27.475971+00:00",
+      "sha256": "6c78052304913b07e0b38b60f4e8488427cc2fb62d341ce66c1bf7974d21c9ed",
+      "bytes": 11950
+    },
+    "worldbank_gdp_per_capita.json": {
+      "url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR/indicator/NY.GDP.PCAP.KD?format=json&date=2000:2022&per_page=1000",
+      "resolved_url": "https://api.worldbank.org/v2/country/CHN;JPN;KOR/indicator/NY.GDP.PCAP.KD?format=json&date=2000:2022&per_page=1000",
+      "retrieved_at_utc": "2026-11-05T04:29:27.846453+00:00",
+      "sha256": "4085dc371aa825cc078eaa1ba1c954ff9dfdff3f3a499ea4d2a9d0cfa9174d81",
+      "bytes": 15543
+    },
+    "worldbank_indicator_metadata.json": {
+      "url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?format=json",
+      "resolved_url": "https://api.worldbank.org/v2/indicator/NY.GDP.PCAP.KD?format=json",
+      "retrieved_at_utc": "2026-11-05T04:29:28.107473+00:00",
+      "sha256": "46689488cd435920647264ede1bfb2d4b51b09800fb36f3d3b1422a0b11ea49d",
+      "bytes": 1100
+    }
+  }
+}

@@ -1,5 +1,9 @@
 # Macao Tourism and Gaming Recovery
 
+This repository also houses the [Assignment 01 annual analysis](assignment-01/) and the [Team 01 Semester Project on GDP and CO₂ in East Asia](semester-project/).
+
+## Assignment 02 · Monthly recovery
+
 **Research question:** Did Macao visitor arrivals and gross gaming revenue recover at the same pace after the pandemic, relative to 2019?
 
 A CISC7204 Assignment 2 Pair 01 project, presented in the personal portfolio of **Jiawei Sun (Bewick)**. **Status: ongoing**; the current descriptive analysis is complete and interpretation can be developed further.
