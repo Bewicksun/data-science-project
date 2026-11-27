@@ -1,0 +1,10 @@
+iso_code,country,period,gdp_growth_pct,co2_growth_pct,intensity_change_pct,classification,category_changed_vs_baseline
+CHN,China,2000-2022,428.7755881659834,186.34146341463412,-45.848206720777895,Relative per-capita decoupling,False
+CHN,China,2000-2019,362.89233768107385,162.2299651567944,-43.34968548616005,Relative per-capita decoupling,False
+CHN,China,2000-02 mean -> 2020-22 mean,366.9588474058156,165.0830824132931,-43.23202485915856,Relative per-capita decoupling,False
+JPN,Japan,2000-2022,17.83852247103472,-16.974095353291,-29.54264623683043,Absolute per-capita decoupling,False
+JPN,Japan,2000-2019,15.915602202086877,-12.327386352182234,-24.365131196946532,Absolute per-capita decoupling,False
+JPN,Japan,2000-02 mean -> 2020-22 mean,14.987038731840286,-16.300982635617178,-27.210041855607603,Absolute per-capita decoupling,False
+KOR,South Korea,2000-2022,101.5917411065983,24.574829931972797,-38.204398033300514,Relative per-capita decoupling,False
+KOR,South Korea,2000-2019,88.57206645762443,32.66369047619049,-29.64828091015145,Relative per-capita decoupling,False
+KOR,South Korea,2000-02 mean -> 2020-22 mean,85.39257276822273,20.46779614514027,-35.020160545617564,Relative per-capita decoupling,False

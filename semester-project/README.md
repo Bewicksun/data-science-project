@@ -28,6 +28,8 @@ South Korea showed absolute per-capita decoupling during 2010–2022, with GDP p
 
 The charts use country-specific scales. Use the table to compare the magnitudes across countries.
 
+The [period results](results/east_asia_period_growth.csv) and [endpoint sensitivity results](results/east_asia_endpoint_sensitivity.csv) include all three countries.
+
 ## Limitations
 
 The classification describes observed changes. Territorial fossil and industrial CO₂ excludes emissions embodied in imports and does not cover land-use change or other greenhouse gases. The design cannot identify the effects of individual policies.
