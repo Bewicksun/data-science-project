@@ -16,4 +16,4 @@ The original notebook embeds annual visitor arrivals and gaming revenue, in MOP 
 
 From this directory, install the packages with `python -m pip install -r requirements.txt`. Install JupyterLab with `python -m pip install jupyterlab`, then start it with `python -m jupyterlab` and run all cells in [analysis.ipynb](analysis.ipynb). Input values are embedded in the notebook.
 
-[Assignment 02 extends this analysis with corresponding-month baselines and monthly gap comparisons](../README.md).
+[Assignment 02 extends this analysis with corresponding-month baselines and monthly gap comparisons](../assignment-02/).
